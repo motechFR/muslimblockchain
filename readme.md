@@ -3,7 +3,6 @@
 Author: [Jason Grant, MSc](http://jasongrant.in)
 
 # Contents
---------------------------------------------------------------------------------
 
 * [Preamble](#preamble)
 * [Purpose](#purpose)
@@ -17,13 +16,15 @@ Author: [Jason Grant, MSc](http://jasongrant.in)
 
 # Preamble
 
-Islam is arguably the most holistic religion in the world, providing insights and
-guidance for Muslims across a broad range of topics relating to all areas of life.
+Islam is arguably the most holistic religion in the world.
 
-Muslims inherently know that Islam was the catalyst for some of the biggest innovations
-in the modern world.
+It provides insights and guidance for Muslims across a broad range of topics
+relating to all areas of life.
 
-Some of these include: algebra, optics, architectural innovations, islamic arts,
+Muslims inherently know that Islam was the catalyst for some of the biggest
+innovations in the modern world.
+
+Some of these included: algebra, optics, architectural innovations, islamic arts,
 calligraphy, knowledge translation, women's rights, etc.
 
 In the last 600 years or so Islam has seen a comparative stagnation in terms of
@@ -32,19 +33,17 @@ socio-economic progress within Ummah worldwide.
 While the [richest man in the history of the world was a Muslim](https://en.wikipedia.org/wiki/Musa_I_of_Mali),
 many Muslims today live in deep poverty and backwards lifestyles.
 
-Much of this is to do with the complication around effectively distributing monetary
-wealth around Ummah in a direct and fast fashion.
+Much of this is to do with the complication around effectively distributing
+monetary wealth around [Ummah](#ummah) in a direct and fast fashion.
 
 Today however, it is possible to do exactly that with modern Blockchain technology.
 
 # Purpose
---------------------------------------------------------------------------------
 
 Enable a renaissance of Islamic world through a transparent technological implementation
 of Islamic economic model through Blockchain technology.
 
 # People
---------------------------------------------------------------------------------
 
 The audience for this project are all Muslims worldwide.
 
@@ -52,7 +51,6 @@ Islam currently counts 1.3 billion Muslims worldwide as its followers which is
 our overall current target audience.
 
 # Systems
---------------------------------------------------------------------------------
 
 ## Codified Islamic Economy
 
@@ -136,7 +134,6 @@ There should be absolutely no investment in unsuitable businesses, including tho
 involved with: armaments, pork, tobacco, drugs, alcohol or pornography.
 
 # Innovation
---------------------------------------------------------------------------------
 
 ## Why Blockchain?
 
@@ -148,10 +145,9 @@ Islam and Blockchain both:
 * Work on transparent principles
 * Are direct person-to-person protocols
 * Are driven by network (Ummah)
-* Support ethical economy 
+* Support ethical economy
 
 # Products
---------------------------------------------------------------------------------
 
 ## Transparent Blockchain Network
 
@@ -210,8 +206,8 @@ access to funds across the whole Ummah.
 
 ## Zakat-ul-Fitr (Fitrana)
 
-At the end of each Ramadan, Muslim Blockchain will prompt all Muslims to donate
-their [Zakat-ul-Fitr](#Zakat-ul-Fitr to those Muslims that need it the most.
+At the end of each Ramadan, Muslim Wallet prompts all Muslims to donate
+their [Zakat-ul-Fitr](#Zakat-ul-Fitr) to those Muslims that need it the most.
 
 # Growth
 
@@ -253,3 +249,6 @@ of Ramadan. It currently amounts to ~£4 per person.
 
 ### Riba
 Interest earned by lending money. Riba is strictly forbidden in Islam.
+
+### Ummah
+Muslim community around the world.
