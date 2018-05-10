@@ -21,11 +21,11 @@ Islam is arguably the most holistic religion in the world.
 It provides insights and guidance for Muslims across a broad range of topics
 relating to all areas of life.
 
-Muslims inherently know that Islam was the catalyst for some of the biggest
-innovations in the modern world.
+Muslims inherently know that Islam was the catalyst for some of the [biggest
+innovations](http://www.1001inventions.com/) in the modern world.
 
 Some of these included: algebra, optics, architectural innovations, islamic arts,
-calligraphy, knowledge translation, women's rights, etc.
+calligraphy, knowledge translation, women's rights, cheques and money, etc.
 
 In the last 600 years or so Islam has seen a comparative stagnation in terms of
 socio-economic progress within Ummah worldwide.
