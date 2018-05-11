@@ -27,8 +27,8 @@ innovations](http://www.1001inventions.com/) in the modern world.
 Some of these included: algebra, optics, architectural innovations, islamic arts,
 calligraphy, knowledge translation, women's rights, cheques and money, etc.
 
-In the last 600 years or so Islam has seen a comparative stagnation in terms of
-socio-economic progress within Ummah worldwide.
+In the last approximately 600 years Islamic world has seen a stagnation in terms of
+socio-economic progress.
 
 While the [richest man in the history of the world was a Muslim](https://en.wikipedia.org/wiki/Musa_I_of_Mali),
 many Muslims today live in deep poverty and backwards lifestyles.
@@ -40,8 +40,8 @@ Today however, it is possible to do exactly that with modern Blockchain technolo
 
 # Purpose
 
-Enable a renaissance of Islamic world through a transparent technological implementation
-of Islamic economic model through Blockchain technology.
+Enable second [Islamic renaissance](https://en.wikipedia.org/wiki/Islamic_Golden_Age)
+through transparent technological implementation of Islamic economy through use of Blockchain technology.
 
 # People
 
