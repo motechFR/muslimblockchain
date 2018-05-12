@@ -61,13 +61,13 @@ The basic form of users for Muslim Blockchain are ordinary Muslims who are livin
 
 Many Muslims are quite entrepreneurial, running corner shops, crafts shops, farms and many other types of businesses.
 
-### Wealthy Muslims
-
-Many Muslims are super wealthy, running their own banks and many big size businesses.
-
 ### Imams
 
 Imams are important users as they are big influencers in Ummah worldwide and are core representatives for mosques worldwide.
+
+### Wealthy Muslims
+
+Many Muslims are super wealthy, running their own banks and many big size businesses.
 
 ## Organisations
 
@@ -83,6 +83,14 @@ After every Friday prayer a mosque can collect donations from Muslims and know e
 
 All the mosque funds will be made transparent to all the Muslims who want to check the financials of each mosque.
 
+### Charities
+
+Muslim charities can use Muslim Blockchain to gather instant funds from Ummah around the world in real time.
+
+### Education Institutions
+
+Schools and universities can use Muslim Blockchain to both collect funding as well as issue out student loans and bursaries to Muslim students.
+
 ### Islamic Banks
 
 Islamic banking is becoming more and more popular with Muslims and non Muslims around the world.
@@ -90,10 +98,6 @@ Islamic banking is becoming more and more popular with Muslims and non Muslims a
 Muslim Blockchain enables Islamic Banks to enter the age of cryptocurrencies in a seamless and painless way.
 
 All the rules of Islamic Banking are pre-coded into Muslim Blockchain by default.
-
-### Charities
-
-Muslim charities can use Muslim Blockchain to gather instant funds from Ummah around the world in real time.
 
 ## Team
 
@@ -134,25 +138,7 @@ economic principles.
 Muslims who are wealthier can set up their own Islamic Banks through the Muslim
 Blockchain and automatically comply with Islamic economic principles.
 
-#### Ijara
 
-Works as a leasing arrangement: the bank buys something for a customer and then
-leases it back to them.
-
-Different forms of leasing are permissible, including those where a portion of
-the instalment payment goes toward the final purchase.
-
-#### Murabaha
-
-Works by the bank supplying specific goods for resale to the customer.
-
-This method incorporates a mutually agreed contract and a mutually negotiated margin.
-
-#### Musharaka
-
-A joint venture in which the customer and bank contribute to the capital of the
-operation and agree to share the returns (as well as the risks) in proportions
-agreed to in advance.
 
 ### Islamic Banking
 
@@ -259,8 +245,46 @@ access to funds across the whole Ummah.
 
 ## Zakat-ul-Fitr (Fitrana)
 
-At the end of each Ramadan, Muslim Wallet prompts all Muslims to donate
+At the end of each Ramadan, Muslim Wallet calculates and prompts all Muslims to donate
 their [Zakat-ul-Fitr](#Zakat-ul-Fitr) to those Muslims that need it the most.
+
+## Tokenomics
+
+### Supply
+
+Total supply of Muslim Coins is 100,000,000,000,000 (one hundred trillion).
+
+The reason for this is that within a world with ten billion population, each Muslim would have ~1000 Muslim Coins they could have access to if it was evenly distributed.
+
+This seems like a right number to make Muslim Coins feel both scarce as well as abundant in supply.
+
+Once Muslim Coins are issued on the Blockchain there will never be more of them issued again.
+
+This prevents coin deflation through additional printing, like it is the case with regular banks at the moment.
+
+### Distribution
+
+### Mining
+
+### Value
+
+Muslim Coin is pegged to gold and silver as a value standards for its intrinsic value.
+
+The pegging between coins and gold is 1000 Muslim Coins to 1 ounce of Gold.
+
+This means that Muslims who own Muslim Coin can exchange 1000 Muslim Coins for 1 ounce of gold or its current market value equivalent in fiat in the open market.
+
+Crypto and fiat exchanges around the world can be more speculative on the value of Muslim Coin for those who want to speculate on it.
+
+### Exchanging
+
+Muslim Coin will be listed on crypto exchanges around the world.
+
+This enables Muslims to exchange their Muslim Coins for other crypto or fiat currencies they prefer or need to have.
+
+The exchange rate will be determined by the open market.
+
+[Fiat](#fiat) value of Muslim Coin should not affect decisions made on pricing of goods in Muslim Coins by Muslim merchants around the world.
 
 # Growth
 
@@ -305,3 +329,24 @@ Interest earned by lending money. Riba is strictly forbidden in Islam.
 
 ### Ummah
 Muslim community around the world.
+
+### Ijara (Mortgage)
+
+Works as a leasing arrangement: the bank buys something for a customer and then
+leases it back to them.
+
+Different forms of leasing are permissible, including those where a portion of the instalment payment goes toward the final purchase.
+
+### Murabaha (Partnership)
+
+Works by the bank supplying specific goods for resale to the customer.
+
+This method incorporates a mutually agreed contract and a mutually negotiated margin.
+
+### Musharaka (Loan)
+
+A joint venture in which the customer and bank contribute to the capital of the operation and agree to share the returns (as well as the risks) in proportions agreed to in advance.
+
+### Fiat
+
+Regular money (such as Pounds, Euros and Dollars) issued by central banks around the world.
