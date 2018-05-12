@@ -138,8 +138,6 @@ economic principles.
 Muslims who are wealthier can set up their own Islamic Banks through the Muslim
 Blockchain and automatically comply with Islamic economic principles.
 
-
-
 ### Islamic Banking
 
 Banks can profit from the buying and selling of approved goods and services.
@@ -221,7 +219,7 @@ how many Muslim Coins to which wallet.
 Muslim Coin is uniquely designed for Muslims around the world to trade in line
 with well established Islamic economic rules.
 
-Muslim Coin is Halal by design.
+Muslim Coin is Halal by design as it follows all Islamic rules of money.
 
 ## Zakat
 
