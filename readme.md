@@ -7,6 +7,8 @@ Author: [Jason Grant, MSc](http://jasongrant.in)
 * [Preamble](#preamble)
 * [Purpose](#purpose)
 * [People](#people)
+  * [Individuals](#individuals)
+  * [Organisation](#organisations)
 * [Systems](#systems)
 * [Innovation](#innovation)
 * [Products](#products)
@@ -45,10 +47,61 @@ through transparent technological implementation of Islamic economy through use 
 
 # People
 
-The audience for this project are all Muslims worldwide.
+Overall target community for this project are 1.3 billion Muslims worldwide.
 
-Islam currently counts 1.3 billion Muslims worldwide as its followers which is
-our overall current target audience.
+## Individuals
+
+These are the core users of Muslim Blockchain and Muslim Wallet.
+
+### Ordinary Muslims
+
+The basic form of users for Muslim Blockchain are ordinary Muslims who are living their regular day to day lives.
+
+### Muslim Merchants
+
+Many Muslims are quite entrepreneurial, running corner shops, crafts shops, farms and many other types of businesses.
+
+### Wealthy Muslims
+
+Many Muslims are super wealthy, running their own banks and many big size businesses.
+
+### Imams
+
+Imams are important users as they are big influencers in Ummah worldwide and are core representatives for mosques worldwide.
+
+## Organisations
+
+### Mosques
+
+Blockchain shows itself to be a perfect technology for charitable donation collection.
+
+Mosques have this need all the time.
+
+Muslim Blockchain will enable instant, direct, charitable donations from Muslims to mosques around the world in physical and virtual ways.
+
+After every Friday prayer a mosque can collect donations from Muslims and know exactly how much they have collected that Friday.
+
+All the mosque funds will be made transparent to all the Muslims who want to check the financials of each mosque.
+
+### Islamic Banks
+
+Islamic banking is becoming more and more popular with Muslims and non Muslims around the world.
+
+Muslim Blockchain enables Islamic Banks to enter the age of cryptocurrencies in a seamless and painless way.
+
+All the rules of Islamic Banking are pre-coded into Muslim Blockchain by default.
+
+### Charities
+
+Muslim charities can use Muslim Blockchain to gather instant funds from Ummah around the world in real time.
+
+## Team
+
+### Jason Grant, MSc
+
+Muslim Blockchain was conceptualised by Jason Grant, MSc after five years of deep contemplation on the idea.
+
+Jason is a Computer Scientist and Business Management Master with many years of experience in the industries of all types, including extensive experience in financial industry.
 
 # Systems
 
