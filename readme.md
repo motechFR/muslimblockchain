@@ -268,13 +268,19 @@ This prevents coin deflation through additional printing, like it is the case wi
 
 ### Value
 
-Muslim Coin is pegged to gold and silver as a value standards for its intrinsic value.
+Muslim Coin is pegged to gold as a value standards for its intrinsic worth as per rules defined in Qur'an.
 
-The pegging between coins and gold is 1000 Muslim Coins to 1 ounce of Gold.
+1 Muslim Coin is worth 1 milligram of gold.
 
-This means that Muslims who own Muslim Coin can exchange 1000 Muslim Coins for 1 ounce of gold or its current market value equivalent in fiat in the open market.
+1000 Muslim Coins are worth 1 gram of gold.
 
-Crypto and fiat exchanges around the world can be more speculative on the value of Muslim Coin for those who want to speculate on it.
+This means that Muslims who own Muslim Coin can exchange 1000 Muslim Coins for 1 gram of gold (or its current market value equivalent in fiat in the open world).
+
+Crypto and fiat exchanges can be more speculative on the value of Muslim Coin for those who want to speculate on it.
+
+This does not change the open market principles and value of Muslim Coin however.
+
+It simply gives Muslims an opportunity to potentially acquire Muslim Coins at a value that is perhaps less than the open world value.
 
 ### Exchanging
 
