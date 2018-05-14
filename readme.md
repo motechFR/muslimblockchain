@@ -13,6 +13,33 @@ Author: [Jason Grant, MSc](http://jasongrant.in)
 * [Innovation](#innovation)
 * [Products](#products)
 * [Money](#money)
+  * [Tokenomics](#user-content-tokenomics)
+    * [Utility](#user-content-utility)
+    * [Uptake](#user-content-uptake)
+    * [Velocity](#user-content-velocity)
+    * [Economics](#user-content-economics)
+    * [Technology](#user-content-technology)
+    * [Uniqueness](#user-content-uniqueness)
+    * [Merchants](#user-content-merchants)
+    * [Scarcity](#user-content-scarcity)
+    * [Governance](#user-content-governance)
+    * [Appeal](#user-content-appeal)
+    * [Collateralisation](#user-content-collateralisation)
+    * [Security](#user-content-security)
+    * [Versatility](#user-content-versatility)
+    * [Trustworthiness](#user-content-trustworthiness)
+    * [Distribution](#user-content-distribution)
+    * [Mining](#user-content-mining)
+    * [Community](#user-content-community)
+    * [Low fees](#user-content-low-fees)
+    * [Anonymity](#user-content-anonymity)
+    * [Fungibility](#user-content-fungibility)
+    * [Environmental friendliness](#user-content-environmental-friendliness)
+    * [Decentralisation](#user-content-decentralisation)
+    * [Speed](#user-content-speed)
+    * [Stability](#user-content-stability)
+    * [Divisibility](#user-content-divisibility)
+    * [Supply](#user-content-supply)
 * [Growth](#growth)
 * [Terminology](#terminology)
 
@@ -328,6 +355,8 @@ Muslim Blockchain is secure by design, following the best practices of encryptio
 
 ### Distribution
 
+### Mining
+
 ### Community
 
 ### Low fees
@@ -346,22 +375,17 @@ Muslim Blockchain is secure by design, following the best practices of encryptio
 
 ### Divisibility
 
-
 ### Supply
 
 Total supply of Muslim Coins is 100,000,000,000,000 (one hundred trillion).
 
-The reason for this is that within a world with ten billion population, each Muslim would have ~1000 Muslim Coins they could have access to if it was evenly distributed.
+The reason for this is that within a world with 10 billion population, each Muslim would have ~1000 Muslim Coins they could have access to if it was evenly distributed.
 
 This seems like a right number to make Muslim Coins feel both scarce as well as abundant in supply.
 
 Once Muslim Coins are issued on the Blockchain there will never be more of them issued again.
 
 This prevents coin deflation through additional printing, like it is the case with regular banks at the moment.
-
-### Distribution
-
-### Mining
 
 ### Value
 
