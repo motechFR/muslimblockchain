@@ -248,6 +248,10 @@ their [Zakat-ul-Fitr](#Zakat-ul-Fitr) to those Muslims that need it the most.
 
 ## Tokenomics
 
+For Muslim Coin to work all aspects of this cryptocurrency need to make sense.
+
+![Aspects](i/crypto-aspects.png)
+
 ### Supply
 
 Total supply of Muslim Coins is 100,000,000,000,000 (one hundred trillion).
