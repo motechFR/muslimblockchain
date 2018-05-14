@@ -248,9 +248,104 @@ their [Zakat-ul-Fitr](#Zakat-ul-Fitr) to those Muslims that need it the most.
 
 ## Tokenomics
 
-For Muslim Coin to work all aspects of this cryptocurrency need to make sense.
+For Muslim Coin to work all cryptocurrency aspects need to make sense and work well together.
 
 ![Aspects](i/crypto-aspects.png)
+
+### Utility
+
+Muslim Coin is used for various Islamic compliant trades and charitable giving.
+
+This includes: Zakat, loans, business partnership deals, charitable donations and purchases in store.
+
+### Uptake
+
+Target audience for Muslim Coin is 1.3 billion Muslims worldwide.
+
+Using Muslim Coin gives Muslims an easier compliance with Islamic rules and traditions by design.
+
+### Velocity
+
+Once enough Muslims start using Muslim Coins for every day purposes, velocity of transactions is expected to go up exponentially.
+
+### Economics
+
+Muslim Coin is in strict compliance with Islamic rules of money, giving entire Ummah a standard to operate in accordance with.
+
+### Technology
+
+Muslim Blockchain uses technology that serves a human purpose at every step of the way.
+
+By design, this project is all about helping Muslims develop through steady and accountable programme of increasing wealth across enitre Ummah.
+
+### Uniqueness
+
+Muslim Blockchain is the most comprehensive and holistic proposition for implementation of the Islamic economic principles through technological means so far.
+
+It's a natural evolution of the best practices adopted and deployed through centuries during the best times of Islamic renaissance period.
+
+### Merchants
+
+Merchant adoption of Muslim Blockchain is very important.
+
+In many respects we can think of each Muslim as a natural merchant.
+
+Muslim Blockchain encourages all Muslims to be independent, while collaborating and helping the entire Ummah in the process.
+
+### Scarcity
+
+The number of Muslim Coins is fixed at 100 trillion in all.
+
+There will never be more of them issued in future.
+
+### Governance
+
+The governance of Muslim Blockchain is quite literally divinely inspired.
+
+The rules of governance of this project are precisely in line with the Islamic principles of money, wealth creation and sharing economy.
+
+### Appeal
+
+For all Muslims who have contemplated about what money is and how it should work, Muslim Blockchain ought to make instant and practical sense.
+
+For those Muslims that need convincing, they ought to read this white paper and feed back on what might be missing in it or not make sense.
+
+### Collateralisation
+
+Muslim Coin has no value in itself.
+
+The idea is that it is exchanged for real world goods that Ummah owns and benefits from.
+
+In that sense Muslim Coin will be collateralised by the wealth of the entire Ummah and more Muslims take it up, the more collateralised the entire network will become.
+
+### Security
+
+Muslim Blockchain is secure by design, following the best practices of encryption and security as the best in class Blockchains on the market right now.
+
+### Versatility
+
+### Trustworthiness
+
+### Distribution
+
+### Community
+
+### Low fees
+
+### Anonymity
+
+### Fungibility
+
+### Environmental friendliness
+
+### Decentralisation
+
+### Speed
+
+### Stability
+
+### Divisibility
+
 
 ### Supply
 
