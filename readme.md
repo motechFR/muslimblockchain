@@ -234,6 +234,10 @@ beginning of Islamic period.
 Muslim POS runs outside of jurisdiction of any local governments and enables Muslims
 around the world to directly trade with one another with Muslims Coins.
 
+## Qard al Hasan
+
+Muslim Blockchain supports issuance of interest free loans in line with guidelines from Islamic rules.
+
 ## Block Explorer
 
 Ability to check all transactions on Muslim Blockchain network and which wallet sent
@@ -477,3 +481,21 @@ A joint venture in which the customer and bank contribute to the capital of the 
 ### Fiat
 
 Regular money (such as Pounds, Euros and Dollars) issued by central banks around the world.
+
+### Qard al Hasan
+
+An interest-free loan (fungible, marketable wealth) that is extended by a lender to a borrower on the basis of benevolence (ihsan).
+
+Al-qard, from a shari’a point of view, is a non commutative contract, as it involves a facility granted only for the sake of tabarru’ (donation).
+
+Therefore, al-qard al-hasan is a gratuitous loan extended to needy people for a specified period of time.
+
+At the end of that period, the face value of the loan (asl al-qard) is to be paid off.
+
+# Questions
+
+These are the questions this white paper is still looking to answer:
+
+* Which platform should this concept be built on? Should it be a standalone blockchain, or can it be built on an existing platform?
+* How does the 'real' value of the Muslim Coin get assigned from the start, to the overall proliferation point of the coin across the whole Ummah?
+* Who are the core advisors that can help make the whole concept as robust as possible? 
